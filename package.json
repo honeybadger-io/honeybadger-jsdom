@@ -67,7 +67,7 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js --maxWorkers=1 --collectCoverage --collectCoverageFrom=src/**/*"
+    "test": "node scripts/test.js --collectCoverage --collectCoverageFrom=src/**/*"
   },
   "eslintConfig": {
     "extends": "react-app"
